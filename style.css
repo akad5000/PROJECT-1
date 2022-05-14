@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0%;
+    list-style: none;
+    background-color: #ccd5ae;
+}
+.First{
+    float: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Second{
+    justify-content: space-between;
+    display: flex;
+    width: 20%;
+    padding-left: 40px;
+}
